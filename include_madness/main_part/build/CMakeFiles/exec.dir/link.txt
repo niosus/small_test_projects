@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/exec.dir/main.cpp.o  -o exec -rdynamic -L/home/igor/Code/SmallTestProjects/include_madness/main_part/../bad_lib/lib -linclude_bad liblib_good.so -Wl,-rpath,/home/igor/Code/SmallTestProjects/include_madness/main_part/../bad_lib/lib:/home/igor/Code/SmallTestProjects/include_madness/main_part/build 

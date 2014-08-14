@@ -1,0 +1,2 @@
+/home/igor/Code/SmallTestProjects/include_madness/main_part/build/CMakeFiles/exec.dir
+/home/igor/Code/SmallTestProjects/include_madness/main_part/build/CMakeFiles/lib_good.dir

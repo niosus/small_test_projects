@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,liblib_good.so -o liblib_good.so CMakeFiles/lib_good.dir/lib_good.cpp.o 
